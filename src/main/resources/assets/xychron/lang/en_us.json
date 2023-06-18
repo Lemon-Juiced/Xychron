@@ -5,5 +5,11 @@
   "item.xychron.red_xychronite": "Red Xychronite",
   "item.xychron.white_xychronite": "White Xychronite",
 
+  "block.xychron.black_xychronite_bricks": "Black Xychronite Bricks",
+  "block.xychron.blue_xychronite_bricks": "Blue Xychronite Bricks",
+  "block.xychron.green_xychronite_bricks": "Green Xychronite Bricks",
+  "block.xychron.red_xychronite_bricks": "Red Xychronite Bricks",
+  "block.xychron.white_xychronite_bricks": "White Xychronite Bricks",
+
   "itemGroup.xychron": "Xychron"
 }

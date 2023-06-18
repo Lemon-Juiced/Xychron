@@ -1,5 +1,6 @@
 package lemon_juice.xychron;
 
+import lemon_juice.xychron.block.ModBlocks;
 import lemon_juice.xychron.creativetab.ModCreativeTab;
 import lemon_juice.xychron.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
@@ -21,7 +22,7 @@ public class Xychron {
 
         // Register Items & Blocks
         ModItems.register(modEventBus);
-        //ModBlocks.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register Creative Tab
         ModCreativeTab.register(modEventBus);

@@ -1,6 +1,7 @@
 package lemon_juice.xychron.creativetab;
 
 import lemon_juice.xychron.Xychron;
+import lemon_juice.xychron.block.ModBlocks;
 import lemon_juice.xychron.item.ModItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -26,6 +27,12 @@ public class ModCreativeTab {
             event.accept(ModItems.GREEN_XYCHRONITE.get());
             event.accept(ModItems.RED_XYCHRONITE.get());
             event.accept(ModItems.WHITE_XYCHRONITE.get());
+
+            event.accept(ModBlocks.BLACK_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.BLUE_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.GREEN_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.RED_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.WHITE_XYCHRONITE_BRICKS.get());
         }
     }
 
