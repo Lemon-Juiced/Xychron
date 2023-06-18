@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/xychronite"
+    },
+    "B": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "xychron:white_xychronite",
+    "count": 8
+  }
+}
