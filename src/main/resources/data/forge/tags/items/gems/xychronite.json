@@ -1,10 +1,10 @@
 {
   "replace": false,
   "values": [
-    "xychron:black_xychronite",
-    "xychron:blue_xychronite",
-    "xychron:green_xychronite",
-    "xychron:red_xychronite",
-    "xychron:white_xychronite"
+    "xychron:black_xychronite_crystal",
+    "xychron:blue_xychronite_crystal",
+    "xychron:green_xychronite_crystal",
+    "xychron:red_xychronite_crystal",
+    "xychron:white_xychronite_crystal"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "xychron:green_xychronite_bricks"
+    }
+  },
+  "result": {
+    "item": "xychron:green_xychronite_brick_stairs",
+    "count": 4
+  }
+}

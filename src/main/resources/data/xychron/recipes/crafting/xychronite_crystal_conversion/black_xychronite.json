@@ -10,11 +10,11 @@
       "tag": "forge:gems/xychronite"
     },
     "B": {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:black_dye"
     }
   },
   "result": {
-    "item": "xychron:blue_xychronite",
+    "item": "xychron:black_xychronite_crystal",
     "count": 8
   }
 }

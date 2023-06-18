@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "xychron:white_xychronite_crystal"
+    "#forge:ingots/xychronite"
   ]
 }

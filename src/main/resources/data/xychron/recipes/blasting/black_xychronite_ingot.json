@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "xychron:black_xychronite_crystal"
+  },
+  "result": "xychron:black_xychronite_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "xychron:item/green_xychronite"
+    "layer0": "xychron:item/blue_xychronite_ingot"
   }
 }

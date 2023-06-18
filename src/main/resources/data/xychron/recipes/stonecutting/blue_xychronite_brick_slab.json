@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "xychron:blue_xychronite_bricks"
+  },
+  "result": "xychron:blue_xychronite_brick_slab",
+  "count": 2
+}

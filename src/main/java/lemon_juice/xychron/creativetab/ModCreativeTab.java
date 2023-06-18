@@ -17,16 +17,22 @@ public class ModCreativeTab {
 
     public static final RegistryObject<CreativeModeTab> XYCHRON_TAB = CREATIVE_MODE_TABS.register("xychron", () -> CreativeModeTab.builder()
             .title(Component.translatable("itemGroup.xychron"))
-            .icon(() -> new ItemStack(ModItems.BLACK_XYCHRONITE.get()))
+            .icon(() -> new ItemStack(ModItems.BLACK_XYCHRONITE_CRYSTAL.get()))
             .build());
 
     public static void registerTabs(BuildCreativeModeTabContentsEvent event){
         if(event.getTab() == XYCHRON_TAB.get()){
-            event.accept(ModItems.BLACK_XYCHRONITE.get());
-            event.accept(ModItems.BLUE_XYCHRONITE.get());
-            event.accept(ModItems.GREEN_XYCHRONITE.get());
-            event.accept(ModItems.RED_XYCHRONITE.get());
-            event.accept(ModItems.WHITE_XYCHRONITE.get());
+            event.accept(ModItems.BLACK_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.BLUE_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.GREEN_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.RED_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.WHITE_XYCHRONITE_CRYSTAL.get());
+
+            event.accept(ModItems.BLACK_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.BLUE_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.GREEN_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.RED_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.WHITE_XYCHRONITE_INGOT.get());
 
             event.accept(ModBlocks.BLACK_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.BLUE_XYCHRONITE_BRICKS.get());

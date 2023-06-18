@@ -1,9 +1,15 @@
 {
-  "item.xychron.black_xychronite": "Black Xychronite",
-  "item.xychron.blue_xychronite": "Blue Xychronite",
-  "item.xychron.green_xychronite": "Green Xychronite",
-  "item.xychron.red_xychronite": "Red Xychronite",
-  "item.xychron.white_xychronite": "White Xychronite",
+  "item.xychron.black_xychronite_crystal": "Black Xychronite Crystal",
+  "item.xychron.blue_xychronite_crystal": "Blue Xychronite Crystal",
+  "item.xychron.green_xychronite_crystal": "Green Xychronite Crystal",
+  "item.xychron.red_xychronite_crystal": "Red Xychronite Crystal",
+  "item.xychron.white_xychronite_crystal": "White Xychronite Crystal",
+
+  "item.xychron.black_xychronite_ingot": "Black Xychronite Ingot",
+  "item.xychron.blue_xychronite_ingot": "Blue Xychronite Ingot",
+  "item.xychron.green_xychronite_ingot": "Green Xychronite Ingot",
+  "item.xychron.red_xychronite_ingot": "Red Xychronite Ingot",
+  "item.xychron.white_xychronite_ingot": "White Xychronite Ingot",
 
   "block.xychron.black_xychronite_bricks": "Black Xychronite Bricks",
   "block.xychron.blue_xychronite_bricks": "Blue Xychronite Bricks",
