@@ -2,6 +2,7 @@ package lemon_juice.xychron.block;
 
 import lemon_juice.xychron.Xychron;
 import lemon_juice.xychron.block.custom.LightEmittingBlock;
+import lemon_juice.xychron.block.custom.LightEmittingDropExperienceBlock;
 import lemon_juice.xychron.block.custom.LightEmittingSlabBlock;
 import lemon_juice.xychron.block.custom.LightEmittingStairBlock;
 import lemon_juice.xychron.item.ModItems;
@@ -20,6 +21,19 @@ import java.util.function.Supplier;
 
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, Xychron.MOD_ID);
+
+    public static final RegistryObject<Block> BLACK_XYCHRONITE_ORE = registerBlock("black_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> BLUE_XYCHRONITE_ORE = registerBlock("blue_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> GREEN_XYCHRONITE_ORE = registerBlock("green_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> RED_XYCHRONITE_ORE = registerBlock("red_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> WHITE_XYCHRONITE_ORE = registerBlock("white_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE).requiresCorrectToolForDrops().strength(3.0F, 3.0F).sound(SoundType.STONE)));
+
+    public static final RegistryObject<Block> DEEPSLATE_BLACK_XYCHRONITE_ORE = registerBlock("deepslate_black_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COAL_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> DEEPSLATE_BLUE_XYCHRONITE_ORE = registerBlock("deepslate_blue_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COAL_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> DEEPSLATE_GREEN_XYCHRONITE_ORE = registerBlock("deepslate_green_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COAL_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> DEEPSLATE_RED_XYCHRONITE_ORE = registerBlock("deepslate_red_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COAL_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> DEEPSLATE_WHITE_XYCHRONITE_ORE = registerBlock("deepslate_white_xychronite_ore", () -> new LightEmittingDropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_COAL_ORE).requiresCorrectToolForDrops().strength(4.5F, 3.0F).sound(SoundType.STONE)));
+
 
     public static final RegistryObject<Block> BLACK_XYCHRONITE_BRICKS = registerBlock("black_xychronite_bricks", () -> new LightEmittingBlock(BlockBehaviour.Properties.copy(Blocks.STONE_BRICKS).requiresCorrectToolForDrops().strength(3.0F, 6.0F).sound(SoundType.STONE)));
     public static final RegistryObject<Block> BLUE_XYCHRONITE_BRICKS = registerBlock("blue_xychronite_bricks", () -> new LightEmittingBlock(BlockBehaviour.Properties.copy(Blocks.STONE_BRICKS).requiresCorrectToolForDrops().strength(3.0F, 6.0F).sound(SoundType.STONE)));

@@ -34,6 +34,18 @@ public class ModCreativeTab {
             event.accept(ModItems.RED_XYCHRONITE_INGOT.get());
             event.accept(ModItems.WHITE_XYCHRONITE_INGOT.get());
 
+            event.accept(ModBlocks.BLACK_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.BLUE_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.GREEN_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.RED_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.WHITE_XYCHRONITE_ORE.get());
+
+            event.accept(ModBlocks.DEEPSLATE_BLACK_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.DEEPSLATE_BLUE_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.DEEPSLATE_GREEN_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.DEEPSLATE_RED_XYCHRONITE_ORE.get());
+            event.accept(ModBlocks.DEEPSLATE_WHITE_XYCHRONITE_ORE.get());
+
             event.accept(ModBlocks.BLACK_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.BLUE_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.GREEN_XYCHRONITE_BRICKS.get());

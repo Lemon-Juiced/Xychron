@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xychron:block/white_xychronite_ore"
+  }
+}
