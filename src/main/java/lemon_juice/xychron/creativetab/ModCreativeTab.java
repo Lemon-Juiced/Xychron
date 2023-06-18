@@ -33,6 +33,18 @@ public class ModCreativeTab {
             event.accept(ModBlocks.GREEN_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.RED_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.WHITE_XYCHRONITE_BRICKS.get());
+
+            event.accept(ModBlocks.BLACK_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.BLUE_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.GREEN_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.RED_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.WHITE_XYCHRONITE_BRICK_SLAB.get());
+
+            event.accept(ModBlocks.BLACK_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.BLUE_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.GREEN_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.RED_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.WHITE_XYCHRONITE_BRICK_STAIRS.get());
         }
     }
 
