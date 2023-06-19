@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": [
+    "xychron:black_xychronite_ore",
+    "xychron:blue_xychronite_ore",
+    "xychron:green_xychronite_ore",
+    "xychron:red_xychronite_ore",
+    "xychron:white_xychronite_ore",
+    "xychron:deepslate_black_xychronite_ore",
+    "xychron:deepslate_blue_xychronite_ore",
+    "xychron:deepslate_green_xychronite_ore",
+    "xychron:deepslate_red_xychronite_ore",
+    "xychron:deepslate_white_xychronite_ore"
+  ],
+  "step": "underground_ores"
+}
