@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/white_xychronite"
+  },
+  "result": "xychron:white_xychronite_crystal",
+  "experience": 0.1,
+  "cookingtime": 100
+}

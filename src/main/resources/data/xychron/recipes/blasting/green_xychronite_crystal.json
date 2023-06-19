@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/green_xychronite"
+  },
+  "result": "xychron:green_xychronite_crystal",
+  "experience": 0.1,
+  "cookingtime": 100
+}

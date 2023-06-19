@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "xychron:black_xychronite_ore",
+    "xychron:blue_xychronite_ore",
+    "xychron:green_xychronite_ore",
+    "xychron:red_xychronite_ore",
+    "xychron:white_xychronite_ore",
+
+    "xychron:deepslate_black_xychronite_ore",
+    "xychron:deepslate_blue_xychronite_ore",
+    "xychron:deepslate_green_xychronite_ore",
+    "xychron:deepslate_red_xychronite_ore",
+    "xychron:deepslate_white_xychronite_ore",
+
+    "xychron:black_xychronite_bricks",
+    "xychron:blue_xychronite_bricks",
+    "xychron:green_xychronite_bricks",
+    "xychron:red_xychronite_bricks",
+    "xychron:white_xychronite_bricks",
+
+    "xychron:black_xychronite_brick_slab",
+    "xychron:blue_xychronite_brick_slab",
+    "xychron:green_xychronite_brick_slab",
+    "xychron:red_xychronite_brick_slab",
+    "xychron:white_xychronite_brick_slab",
+
+    "xychron:black_xychronite_brick_stairs",
+    "xychron:blue_xychronite_brick_stairs",
+    "xychron:green_xychronite_brick_stairs",
+    "xychron:red_xychronite_brick_stairs",
+    "xychron:white_xychronite_brick_stairs"
+  ]
+}
