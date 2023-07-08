@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SSS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "xychron:purple_xychronite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "xychron:purple_xychronite_bricks",
+    "count": 5
+  }
+}

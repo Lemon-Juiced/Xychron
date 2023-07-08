@@ -1,15 +1,25 @@
 {
+  "item.xychron.rgb_slider": "RGB Slider",
+
   "item.xychron.black_xychronite_crystal": "Black Xychronite Crystal",
   "item.xychron.blue_xychronite_crystal": "Blue Xychronite Crystal",
   "item.xychron.green_xychronite_crystal": "Green Xychronite Crystal",
   "item.xychron.red_xychronite_crystal": "Red Xychronite Crystal",
   "item.xychron.white_xychronite_crystal": "White Xychronite Crystal",
 
+  "item.xychron.orange_xychronite_crystal": "Orange Xychronite Crystal",
+  "item.xychron.purple_xychronite_crystal": "Purple Xychronite Crystal",
+  "item.xychron.yellow_xychronite_crystal": "Yellow Xychronite Crystal",
+
   "item.xychron.black_xychronite_ingot": "Black Xychronite Ingot",
   "item.xychron.blue_xychronite_ingot": "Blue Xychronite Ingot",
   "item.xychron.green_xychronite_ingot": "Green Xychronite Ingot",
   "item.xychron.red_xychronite_ingot": "Red Xychronite Ingot",
   "item.xychron.white_xychronite_ingot": "White Xychronite Ingot",
+
+  "item.xychron.orange_xychronite_ingot": "Orange Xychronite Ingot",
+  "item.xychron.purple_xychronite_ingot": "Purple Xychronite Ingot",
+  "item.xychron.yellow_xychronite_ingot": "Yellow Xychronite Ingot",
 
   "block.xychron.black_xychronite_ore": "Black Xychronite Ore",
   "block.xychron.blue_xychronite_ore": "Blue Xychronite Ore",
@@ -29,17 +39,29 @@
   "block.xychron.red_xychronite_bricks": "Red Xychronite Bricks",
   "block.xychron.white_xychronite_bricks": "White Xychronite Bricks",
 
+  "block.xychron.orange_xychronite_bricks": "Orange Xychronite Bricks",
+  "block.xychron.purple_xychronite_bricks": "Purple Xychronite Bricks",
+  "block.xychron.yellow_xychronite_bricks": "Yellow Xychronite Bricks",
+
   "block.xychron.black_xychronite_brick_slab": "Black Xychronite Brick Slab",
   "block.xychron.blue_xychronite_brick_slab": "Blue Xychronite Brick Slab",
   "block.xychron.green_xychronite_brick_slab": "Green Xychronite Brick Slab",
   "block.xychron.red_xychronite_brick_slab": "Red Xychronite Brick Slab",
   "block.xychron.white_xychronite_brick_slab": "White Xychronite Brick Slab",
 
+  "block.xychron.orange_xychronite_brick_slab": "Orange Xychronite Brick Slab",
+  "block.xychron.purple_xychronite_brick_slab": "Purple Xychronite Brick Slab",
+  "block.xychron.yellow_xychronite_brick_slab": "Yellow Xychronite Brick Slab",
+
   "block.xychron.black_xychronite_brick_stairs": "Black Xychronite Brick Stairs",
   "block.xychron.blue_xychronite_brick_stairs": "Blue Xychronite Brick Stairs",
   "block.xychron.green_xychronite_brick_stairs": "Green Xychronite Brick Stairs",
   "block.xychron.red_xychronite_brick_stairs": "Red Xychronite Brick Stairs",
   "block.xychron.white_xychronite_brick_stairs": "White Xychronite Brick Stairs",
+
+  "block.xychron.orange_xychronite_brick_stairs": "Orange Xychronite Brick Stairs",
+  "block.xychron.purple_xychronite_brick_stairs": "Purple Xychronite Brick Stairs",
+  "block.xychron.yellow_xychronite_brick_stairs": "Yellow Xychronite Brick Stairs",
 
   "itemGroup.xychron": "Xychron"
 }

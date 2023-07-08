@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "xychron:item/purple_xychronite_ingot"
+  }
+}

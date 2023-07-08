@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R  ",
+    " #G",
+    "R  "
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:gems/red_xychronite"
+    },
+    "#": {
+      "item": "xychron:rgb_slider"
+    },
+    "G": {
+      "tag": "forge:gems/green_xychronite"
+    }
+  },
+  "result": {
+    "item": "xychron:orange_xychronite_crystal",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xychron:block/purple_xychronite_brick_slab"
+    },
+    "type=double": {
+      "model": "xychron:block/purple_xychronite_bricks"
+    },
+    "type=top": {
+      "model": "xychron:block/purple_xychronite_brick_slab"
+    }
+  }
+}

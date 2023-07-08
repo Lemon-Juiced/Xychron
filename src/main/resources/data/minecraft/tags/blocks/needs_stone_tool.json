@@ -19,16 +19,29 @@
     "xychron:red_xychronite_bricks",
     "xychron:white_xychronite_bricks",
 
+    "xychron:orange_xychronite_bricks",
+    "xychron:purple_xychronite_bricks",
+    "xychron:yellow_xychronite_bricks",
+
     "xychron:black_xychronite_brick_slab",
     "xychron:blue_xychronite_brick_slab",
     "xychron:green_xychronite_brick_slab",
     "xychron:red_xychronite_brick_slab",
     "xychron:white_xychronite_brick_slab",
 
+    "xychron:orange_xychronite_brick_slab",
+    "xychron:purple_xychronite_brick_slab",
+    "xychron:yellow_xychronite_brick_slab",
+
+
     "xychron:black_xychronite_brick_stairs",
     "xychron:blue_xychronite_brick_stairs",
     "xychron:green_xychronite_brick_stairs",
     "xychron:red_xychronite_brick_stairs",
-    "xychron:white_xychronite_brick_stairs"
+    "xychron:white_xychronite_brick_stairs",
+
+    "xychron:orange_xychronite_brick_stairs",
+    "xychron:purple_xychronite_brick_stairs",
+    "xychron:yellow_xychronite_brick_stairs"
   ]
 }

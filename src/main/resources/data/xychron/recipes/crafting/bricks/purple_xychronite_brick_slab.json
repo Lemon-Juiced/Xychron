@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "xychron:purple_xychronite_bricks"
+    }
+  },
+  "result": {
+    "item": "xychron:purple_xychronite_brick_slab",
+    "count": 6
+  }
+}

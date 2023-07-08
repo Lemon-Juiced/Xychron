@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "xychron:block/yellow_xychronite_bricks",
+    "side": "xychron:block/yellow_xychronite_bricks",
+    "top": "xychron:block/yellow_xychronite_bricks"
+  }
+}

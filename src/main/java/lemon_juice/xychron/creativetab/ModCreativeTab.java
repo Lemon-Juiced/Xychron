@@ -22,17 +22,27 @@ public class ModCreativeTab {
 
     public static void registerTabs(BuildCreativeModeTabContentsEvent event){
         if(event.getTab() == XYCHRON_TAB.get()){
+            event.accept(ModItems.RGB_SLIDER);
+
             event.accept(ModItems.BLACK_XYCHRONITE_CRYSTAL.get());
             event.accept(ModItems.BLUE_XYCHRONITE_CRYSTAL.get());
             event.accept(ModItems.GREEN_XYCHRONITE_CRYSTAL.get());
             event.accept(ModItems.RED_XYCHRONITE_CRYSTAL.get());
             event.accept(ModItems.WHITE_XYCHRONITE_CRYSTAL.get());
 
+            event.accept(ModItems.ORANGE_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.PURPLE_XYCHRONITE_CRYSTAL.get());
+            event.accept(ModItems.YELLOW_XYCHRONITE_CRYSTAL.get());
+
             event.accept(ModItems.BLACK_XYCHRONITE_INGOT.get());
             event.accept(ModItems.BLUE_XYCHRONITE_INGOT.get());
             event.accept(ModItems.GREEN_XYCHRONITE_INGOT.get());
             event.accept(ModItems.RED_XYCHRONITE_INGOT.get());
             event.accept(ModItems.WHITE_XYCHRONITE_INGOT.get());
+
+            event.accept(ModItems.ORANGE_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.PURPLE_XYCHRONITE_INGOT.get());
+            event.accept(ModItems.YELLOW_XYCHRONITE_INGOT.get());
 
             event.accept(ModBlocks.BLACK_XYCHRONITE_ORE.get());
             event.accept(ModBlocks.BLUE_XYCHRONITE_ORE.get());
@@ -52,17 +62,29 @@ public class ModCreativeTab {
             event.accept(ModBlocks.RED_XYCHRONITE_BRICKS.get());
             event.accept(ModBlocks.WHITE_XYCHRONITE_BRICKS.get());
 
+            event.accept(ModBlocks.ORANGE_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.PURPLE_XYCHRONITE_BRICKS.get());
+            event.accept(ModBlocks.YELLOW_XYCHRONITE_BRICKS.get());
+
             event.accept(ModBlocks.BLACK_XYCHRONITE_BRICK_SLAB.get());
             event.accept(ModBlocks.BLUE_XYCHRONITE_BRICK_SLAB.get());
             event.accept(ModBlocks.GREEN_XYCHRONITE_BRICK_SLAB.get());
             event.accept(ModBlocks.RED_XYCHRONITE_BRICK_SLAB.get());
             event.accept(ModBlocks.WHITE_XYCHRONITE_BRICK_SLAB.get());
 
+            event.accept(ModBlocks.ORANGE_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.PURPLE_XYCHRONITE_BRICK_SLAB.get());
+            event.accept(ModBlocks.YELLOW_XYCHRONITE_BRICK_SLAB.get());
+
             event.accept(ModBlocks.BLACK_XYCHRONITE_BRICK_STAIRS.get());
             event.accept(ModBlocks.BLUE_XYCHRONITE_BRICK_STAIRS.get());
             event.accept(ModBlocks.GREEN_XYCHRONITE_BRICK_STAIRS.get());
             event.accept(ModBlocks.RED_XYCHRONITE_BRICK_STAIRS.get());
             event.accept(ModBlocks.WHITE_XYCHRONITE_BRICK_STAIRS.get());
+
+            event.accept(ModBlocks.ORANGE_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.PURPLE_XYCHRONITE_BRICK_STAIRS.get());
+            event.accept(ModBlocks.YELLOW_XYCHRONITE_BRICK_STAIRS.get());
         }
     }
 
