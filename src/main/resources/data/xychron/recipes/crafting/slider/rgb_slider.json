@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "RBG",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "xychron:red_xychronite_crystal"
+    },
+    "B": {
+      "item": "xychron:blue_xychronite_crystal"
+    },
+    "G": {
+      "item": "xychron:green_xychronite_crystal"
+    }
+  },
+  "result": {
+    "item": "xychron:rgb_slider",
+    "count": 1
+  }
+}
